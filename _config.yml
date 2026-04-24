@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Gmail Read-Later Bookmarklet
+description: One-click Chrome bookmarklet that emails the current page to yourself through Gmail
