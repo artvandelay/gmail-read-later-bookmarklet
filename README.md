@@ -12,6 +12,8 @@ It is meant as a low-friction “read later” valve:
 
 No extension. No backend. No API key. No tracking. No account beyond Gmail.
 
+[View as a webpage](https://artvandelay.github.io/gmail-read-later-bookmarklet/) · [View source on GitHub](https://github.com/artvandelay/gmail-read-later-bookmarklet)
+
 ---
 
 ## Bookmarklet
